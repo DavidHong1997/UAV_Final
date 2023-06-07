@@ -1,0 +1,8 @@
+prefix=/home/hong/qptrajectory_ws/install
+
+Name: qptrajectory
+Description: Description of qptrajectory
+Version: 0.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

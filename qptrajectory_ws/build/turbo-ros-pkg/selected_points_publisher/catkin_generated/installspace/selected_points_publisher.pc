@@ -1,0 +1,8 @@
+prefix=/home/hong/qptrajectory_ws/install
+
+Name: selected_points_publisher
+Description: Description of selected_points_publisher
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

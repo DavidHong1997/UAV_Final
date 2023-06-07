@@ -1,0 +1,14 @@
+-I/opt/ros/noetic/include
+-I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp
+-I/usr/include/eigen3
+-I/usr/include/OGRE/Overlay
+-I/usr/include/OGRE
+-I/usr/include
+-DROS_BUILD_SHARED_LIBS=1
+-DROS_BUILD_SHARED_LIBS=1
+-DROS_PACKAGE_NAME="waypoint_navigation_plugin"
+-DROSCONSOLE_BACKEND_LOG4CXX
+-DQT_NO_KEYWORDS
+-o
+/home/hong/qptrajectory_ws/build/waypoint_navigation_plugin/src/moc_waypoint_nav_frame.cpp
+/home/hong/qptrajectory_ws/src/waypoint_navigation_plugin/src/waypoint_nav_frame.h

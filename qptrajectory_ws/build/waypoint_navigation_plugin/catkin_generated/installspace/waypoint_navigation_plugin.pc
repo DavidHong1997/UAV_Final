@@ -1,0 +1,8 @@
+prefix=/home/hong/qptrajectory_ws/install
+
+Name: waypoint_navigation_plugin
+Description: Description of waypoint_navigation_plugin
+Version: 0.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

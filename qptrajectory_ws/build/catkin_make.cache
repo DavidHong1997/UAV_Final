@@ -1,0 +1,2 @@
+qptrajectory_ros:waypoint_navigation_plugin
+-DCATKIN_DEVEL_PREFIX=/home/hong/qptrajectory_ws/devel -DCMAKE_INSTALL_PREFIX=/home/hong/qptrajectory_ws/install -G Unix Makefiles
